@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.curso.maven2</groupId>
   <artifactId>Ej19_ReleasePlugin</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4-SNAPSHOT</version>
   
   <properties>
 		<project.scm.id>nuestro-scm-server</project.scm.id>
